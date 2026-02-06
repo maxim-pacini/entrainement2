@@ -195,8 +195,82 @@ footer{
 }
 
 
+/* Page interview */
+.page-interview{
+    width: 1024px;
+    height: 2010px;
+    margin: 0 auto;
+    position: relative;
+    background: url(../images/image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 
+}
+.contenu-interview{
+    width: 794px;
+    height: 600px;
+    position: absolute;
+    right: 0;
+    top: 147px;
+}
 
+/* Moi  */
+.chatbox{
+    height: 150px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0 0 20px 30px;
+    backdrop-filter: blur(2px);
+    border: 2px solid white;
+    color: white;
+    padding: 25px 10px 25px 10px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.chatbox-image{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url(../images/Maxim_Pacini2.png);
+    background-size: cover;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: top;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid white;
+}
+
+/* Romain */
+
+.chatbox-image2{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: url(../images/Romain2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: top;
+    margin: 20px 0px 20px 650px;
+    border: 2px solid white;
+}
+.chatbox2{
+    font-size: 18px;
+    height: 150px;
+    width: 500px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0 0 20px 230px;
+    backdrop-filter: blur(2px);
+    border: 2px solid white;
+    color: white;
+    padding: 25px 10px 25px 10px;
+    text-shadow: 2px 2px 2px black;
+}
 
 
 
